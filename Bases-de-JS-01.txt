@@ -1,0 +1,27 @@
+let articulos = [
+    {
+        nombre_articulo: "Pizza queso",
+        precio: 200.00,
+        sub_categoria: "Tradicional",
+        categoria: "Comida"
+    },
+    {
+        nombre_articulo: "Pizza hawaiana",
+        precio: 250.00,
+        sub_categoria: "Tradicional",
+        categoria: "Comida"
+    },
+    {
+        nombre_articulo: "Sangría",
+        precio: 100.00,
+        sub_categoria: "Frias",
+        categoria: "Bebidas"
+    }
+]
+
+
+1.- Imprime en consola la cantidad de objetos que contiene el arreglo articulos
+2.- Crea una función que reciba como argumentos las propiedades de un articulos, y añade un nuevo articulo al arreglo
+3.- Imprime el arreglo de articulos con el nuevo articulo
+4.- Crea una variable que contenga los articulos ordenados de menor a mayor e imprimelos en consola (utiliza funciones para ordenarlos)
+5.- Imprime en consola una variable que contenga el articulo con el id = 3, utiliza una funcion de js para ello
