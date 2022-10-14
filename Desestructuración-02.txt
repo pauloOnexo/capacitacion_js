@@ -1,0 +1,16 @@
+let cancion = ["It Was A Good Day", "Ice Cube" , "The Predator", "1992"];
+
+1.- Usando la desestructuración, obtén el album y año de lanzamiento de la cancion.
+
+2.-  Usando la desestructuración, imprime el titulo de la cancion y el resto de información en una variable distita.
+
+3.- Vuelve a obtener el album y el año de lanzamiento, pero esta vez utiliza una función para ello.
+
+let persona = {
+    nombre: "Sarah", 
+    pais: "Nigeria", 
+    trabajo: "Desarrollador"
+};
+
+4.- Usa la desestructuración para imprimir cada uno de los atributos del objeto persona
+
